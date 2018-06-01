@@ -70,7 +70,6 @@ public class BasicApplication {
 			}
 		};
 	}
-	//是否可以访问互联网 add by xuconghui 20180530
 	@Bean
 	public HealthIndicator myHealth() {
 		return () -> {
