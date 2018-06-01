@@ -1,0 +1,2 @@
+Mechanism:${info.user.mechanism}
+第二次周末作业
